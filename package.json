@@ -1,4 +1,5 @@
 {
   "name": "newsetta",
-  "packageManager": "yarn@3.2.1"
+  "packageManager": "yarn@3.2.1",
+  "workspaces": ["src/client", "src/server"]
 }
